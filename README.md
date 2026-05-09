@@ -1,8 +1,16 @@
-# FVTT Desktop Client (Moved/rebranded)
+# FVTT Desktop Client
 
-I intended for this to be a private fork for my group as the client hadn't been updated in over 12 months, and I knew this would remain visible to the public. However I started making pretty hefty changes/inclusions which I could not test for the MacOS/Linux builds that were previously supported. So to save confusion or any issues with those useers, I instead detached from the fork network and have continued updating it as a Windows only project in a separate repository which I rebranded as VE Foundry Client.
+### Fork moved / rebranded
 
-If you are a Windows user and want to see what this project has turned into, feel free:
+This repository started as a personal fork for my own group, mainly because the original client had not been updated in over 12 months and my players wanted a few extra features. I intended to keep it public in case it was useful to anyone else.
+
+As development continued, I ended up making much larger changes and additions than originally planned. Since I can only properly test the Windows version myself, I did not want to create confusion or accidentally cause problems for macOS or Linux users who may have expected the same level of support as the original project.
+
+To avoid that, I detached the project from the original fork network and moved ongoing development to a separate repository under a new name: **VE Foundry Client**.
+
+It has since become a more feature-rich, Windows-focused version of the client.
+
+Windows users can check it out here:  
 https://github.com/Silvestrae/ve-foundry-client
 
-If there are any MacOS/Linux users who like what I've done in my windows only version and want to be the test subjects for those builds, submit an issue and I'm more than happy to compile it for you to test.
+If you are a macOS or Linux user and like the direction of the Windows version, feel free to submit an issue. I’m happy to compile test builds for those platforms if someone is willing to help test and verify them.
